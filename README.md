@@ -1,3 +1,23 @@
+# Byungwook An (안병욱)
+
+Founder of **PlanningHigh**. AI workflow strategist and hands-on builder.
+Designing practical systems and visual tools that bridge non-developers with AI.
+
+<!-- metrics-en:start -->
+- **Hands-on AI Builder**: Claude Code Max power user (6,400+ commits, 3,200+ AI agent sessions)
+- **AI Training & Workshops**: 56 corporate & public sessions (~1,300 participants)
+- **Track Record**: 15+ years in strategy & consulting (ex-PlayD, KPMG) · Invited speaker at National Assembly Futures Institute (2025)
+- **Community & Reach**: 2,000 followers · 1.4M impressions across LinkedIn and Threads
+<!-- metrics-en:end -->
+
+- **Featured Open-Source Tools**:
+  - [Openditor](https://github.com/ahnbu/open-html-editor) — Visual in-browser editor for AI-generated HTML slides & documents
+  - [Claude Saturi](https://github.com/ahnbu/claude-saturi) — Dictionary of 24 Korean translation-tone nuances frequently used by Claude
+  - [my_bookstation](https://my-bookstations.vercel.app) · [color_prompt](https://color-prompt.pages.dev) · [pdf2pptx](https://pdf2pptx.pages.dev)
+- **Connect**: [LinkedIn](https://www.linkedin.com/in/byungwook-an) · [Website](https://planninghigh.com) · [byungwook.an@gmail.com](mailto:byungwook.an@gmail.com)
+
+---
+
 # 안병욱 (Byungwook An)
 
 AI로 일하는 방식과 구조를 바꿉니다.  
