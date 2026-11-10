@@ -7,7 +7,7 @@ Designing practical systems and visual tools that bridge non-developers with AI.
 - **Hands-on AI Builder**: Claude Code Max power user (6,500+ commits, 3,200+ AI agent sessions)
 - **AI Training & Workshops**: 56 corporate & public sessions (~1,300 participants)
 - **Track Record**: 15+ years in strategy & consulting (ex-PlayD, KPMG) · Invited speaker at National Assembly Futures Institute (2025)
-- **Community & Reach**: 2,006 followers · 1.4M impressions across LinkedIn and Threads
+- **Community & Reach**: 2,013 followers · 1.4M impressions across LinkedIn and Threads
 <!-- metrics-en:end -->
 
 - **Featured Open-Source Tools**:
@@ -33,7 +33,7 @@ AI로 일하는 방식과 구조를 바꿉니다.
 - **실무 강의**: 기업·기관 강의 누적 56회 · 수강생 약 1,300명 · 강의 만족도 4.91 / 5.0 (다우기술, 한국생산성본부, 청년취업사관학교, 경기도공익활동지원센터 등)
 - **공신력**: 국회미래연구원 AI간담회 전문가 발제 (2025)
 - **전략기획 15년+**: ex-네이버 계열사 PlayD 기획실장 · 삼정KPMG 시니어 컨설턴트
-- **SNS 채널**: 팔로워 2,006명 (LinkedIn 1,258 · Threads 466 · Facebook 282) · 누적 조회 139.7만 회
+- **SNS 채널**: 팔로워 2,013명 (LinkedIn 1,264 · Threads 467 · Facebook 282) · 누적 조회 140.1만 회
 <!-- metrics:end -->
 
 ---
